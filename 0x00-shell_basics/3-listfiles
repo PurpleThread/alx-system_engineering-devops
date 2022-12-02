@@ -1,2 +1,2 @@
 #!/bin/bash
-total 20 -rwxr--r-- 1 root root  66 Dec  1 05:09 0-current_working_directory -rwxr--r-- 1 root root 224 Dec  1 23:18 1-listit   -rwxr--r-- 1 root root  21 Dec  1 22:22 2-bring_me_home -rwxr--r-- 1 root root 447 Dec  1 23:11 3-listfiles -rw-r--r-- 1 root root  13 Dec  1 04:51 README.md 
+ls -l
