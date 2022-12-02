@@ -1,2 +1,2 @@
 #!/bin/bash
-./1-listit 0-current_working_directory 1-listit 2-bring_me_home 3-listfile README.md
+./1-listit0-current_working_directory  2-bring_me_home  README.md			1-listit                     3-listfiles 
