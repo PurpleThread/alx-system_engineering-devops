@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod [ugoa]* olleh hello
+sudo chmod --reference=olleh hello
