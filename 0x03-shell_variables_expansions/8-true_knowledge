@@ -1,0 +1,2 @@
+#!/bin/bash
+export TRUKNOWLEDGE=$((128+TRUEKNOWLEDGE))
