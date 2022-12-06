@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello $su root
+echo hello $su MyUser
