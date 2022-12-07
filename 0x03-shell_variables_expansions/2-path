@@ -1,2 +1,2 @@
 #!/bin/bash
-$PATHaction
+echo $PATH | tr ":a"\n | wc-l
